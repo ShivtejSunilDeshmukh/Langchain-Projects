@@ -12,6 +12,9 @@ langchain-experimental>=0.0.60
 openai>=1.30.0
 mistralai>=1.0.0
 
+# Search dependency (IMPORTANT)
+ddgs>=1.0.0
+
 # Utilities
 python-dotenv>=1.0.1
 requests>=2.31.0
