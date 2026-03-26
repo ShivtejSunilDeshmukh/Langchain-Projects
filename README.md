@@ -59,9 +59,9 @@ An interactive chatbot with a user interface.
 
 - Chat-based interaction  
 - User-friendly UI  
-
-**Use Case:** Provides an intuitive way to interact with LLM applications.
 ---
+**Use Case:**  Provides an intuitive way to interact with LLM applications.
+
 
 ## 🛠️ Tech Stack
 
